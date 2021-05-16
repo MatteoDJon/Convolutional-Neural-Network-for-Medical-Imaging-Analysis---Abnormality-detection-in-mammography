@@ -1,4 +1,4 @@
-# Convolutional-Neural-Network-for-Medical-Imaging-Analysis---Abnormality-detection-in-mammography
+# Convolutional-Neural-Network-for-Medical-Imaging-Analysis-Abnormality-detection-in-mammography
 
 This is the github for the project of the course 'Convolutional Intelligence and Deep Learning',second year of the 'Artifical Intelligence and Data Engineering' master degree.
 
